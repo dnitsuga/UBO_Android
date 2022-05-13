@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">checkBox</string>
+    <string name="Edit_text_1">ingrese un valor</string>
+    <string name="Edit_text_2">Ingrese un segundo valor</string>
+    <string name="Check_box_suma">Sumar</string>
+    <string name="Check_box_resta">Restar</string>
+    <string name="buttom">Calcular</string>
+    <string name="tex_view">Resultado</string>
+</resources>
